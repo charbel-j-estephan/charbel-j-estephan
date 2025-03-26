@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **a Torrent Movie Sorting WebApp**<br>🌱 I’m seeking to get **a certification in Full-stack web Development**<br>⚡ Fun fact **I am a Second year Computer and Telecomunication engineering student**<br>🧑‍💻 I am currently a trainee at **Softflow**<br>📫 How to reach me **charbelstephan12@gmail.com**
+🔭 I’m currently working on **a new start up**<br>🌱 I’m seeking to get **a certification in Full-stack web Development**<br>⚡ Fun fact **I am a Second year Computer and Telecomunication engineering student**<br>🧑‍💻 I am currently a **Full-stack** develleoper working freelance<br>📫 How to reach me **charbelstephan12@gmail.com**
 
 
 ## 🌐 Socials:
