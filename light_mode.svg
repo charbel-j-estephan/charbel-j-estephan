@@ -16,6 +16,7 @@ text, tspan {white-space: pre;}
 <rect width="985px" height="530px" fill="#ffffff" rx="15"/>
 
 <!-- Left-side image -->
+  <text>
 <pre>
   [size=9px][font=monospace]                                                                                
                                                                                 
@@ -49,7 +50,7 @@ $$$$$$@@@$$@$@@@@@$@@@$@@@@$@@@@@W  '|           ,$$$$$$$$$$$$$$$$$
 $$$$$$@@$$@$$@@@$$@@@@@@@@@$@@@@@F'-'T           l@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 [/font][/size]
 </pre>
-  
+  </text>
 <!-- Right-side text -->
 <text x="390" y="40" fill="#24292e">
 <tspan x="390" y="40">charbel-j-estephan</tspan> ——————————————————————————————————
