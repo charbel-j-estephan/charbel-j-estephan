@@ -47,12 +47,5 @@
 ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=flat&logo=octopusdeploy&logoColor=white)  
 
 **Hardware & Embedded Systems**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
-⚡ Logic Design, Embedded Systems Programming, Hardware Interfaces  
+⚡ Logic Design, Embedded Systems Programming, Hardware Interfaces, advanced electronic anaylisis. 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=charbel-j-estephan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=charbel-j-estephan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=charbel-j-estephan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
