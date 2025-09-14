@@ -16,9 +16,15 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-<image x="15" y="30" width="350" height="450"
-       href="ascii-art-light.png"
-       xlink:href="ascii-art-light.png"/>
+<image
+  x="15"
+  y="30"
+  width="350"
+  height="450"
+  href="ascii-art-light.png"
+  xlink:href="ascii-art-light.png"
+/>
+
 
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">charbel@estephan</tspan> ————————————————————————————————————————————————
