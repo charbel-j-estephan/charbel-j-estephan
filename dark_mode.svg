@@ -19,11 +19,11 @@ text, tspan {white-space: pre;}
 <image
   x="15"
   y="30"
-  width="350"
-  height="450"
-  href="ascii-art-light.png"
-  xlink:href="ascii-art-light.png"
+  width="200"
+  height="200"
+  href="https://via.placeholder.com/200"
 />
+
 
 
 <text x="390" y="30" fill="#c9d1d9">
