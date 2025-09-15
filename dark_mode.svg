@@ -1,4 +1,4 @@
-<?xml version='1.0 ' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
 <style>
 @font-face {
@@ -8,14 +8,24 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.cc {fill: #616e7f;}
+.key {fill: #ffa657;}   /* dark red for keys */
+.value {fill: #a5d6ff;} /* dark blue for values */
+.cc {fill: #616e7f;}    /* gray for separators */
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
 
 <!-- Left-side image -->
+  <defs>
+    <filter id="darken">
+      <!-- slope < 1 darkens, slope > 1 brightens -->
+      <feComponentTransfer>
+        <feFuncR type="linear" slope="0.6" />
+        <feFuncG type="linear" slope="0.6" />
+        <feFuncB type="linear" slope="0.6" />
+      </feComponentTransfer>
+    </filter>
+  </defs>
 <g transform="translate(-30, 20)">
 
 <text x="-50" y="100" font-size="8px" fill="#c9d1d9">
@@ -50,7 +60,6 @@ text, tspan {white-space: pre;}
   <tspan x="40" dy="1.2em">`---._.-------------------------------------------------------------._.---'</tspan>
 </text>
 </g>
-
 <!-- Right-side text -->
 <text x="390" y="40" fill="#c9d1d9">
 <tspan x="390" y="40">charbel-j-estephan</tspan> ——————————————————————————————————
