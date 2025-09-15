@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg"
      font-family="Consolas, monospace"
-     width="1584px" height="396px" font-size="18px">
+     width="985px" height="530px" font-size="18px">
 <style>
 .key {fill: #d73a49;}      /* Red for keys */
 .value {fill: #005cc5;}    /* Blue for values */
