@@ -20,9 +20,9 @@ text, tspan {white-space: pre;}
     <filter id="darken">
       <!-- slope < 1 darkens, slope > 1 brightens -->
       <feComponentTransfer>
-        <feFuncR type="linear" slope="0.6" />
-        <feFuncG type="linear" slope="0.6" />
-        <feFuncB type="linear" slope="0.6" />
+        <feFuncR type="linear" slope="0.6"/>
+        <feFuncG type="linear" slope="0.6"/>
+        <feFuncB type="linear" slope="0.6"/>
       </feComponentTransfer>
     </filter>
   </defs>
@@ -34,7 +34,7 @@ text, tspan {white-space: pre;}
   <tspan x="40" dy="1.2em">            /                                                \</tspan>
   <tspan x="40" dy="1.2em">           |    _________________________________________     |</tspan>
   <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
-  <tspan x="40" dy="1.2em">           |   |  C:\> whoami_                           |    |</tspan>
+  <tspan x="40" dy="1.2em">           |   |  C:\&gt; whoami_                           |    |</tspan>
   <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
   <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
   <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
