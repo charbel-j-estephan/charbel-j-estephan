@@ -14,11 +14,22 @@ text, tspan {white-space: pre;}
 
 <!-- Left-side ASCII art -->
 <text x="40" y="60" font-size="8px" fill="#586069">
+
   <tspan x="40" dy="1.2em">             ________________________________________________</tspan>
   <tspan x="40" dy="1.2em">            /                                                \</tspan>
   <tspan x="40" dy="1.2em">           |    _________________________________________     |</tspan>
   <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
   <tspan x="40" dy="1.2em">           |   |  C:\> _                                 |    |</tspan>
+  <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
+  <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
+  <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
+  <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
+  <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
+  <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
+  <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
+  <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
+  <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
+  <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
   <tspan x="40" dy="1.2em">           |   |                                         |    |</tspan>
   <tspan x="40" dy="1.2em">           |   |_________________________________________|    |</tspan>
   <tspan x="40" dy="1.2em">           |                                                  |</tspan>
