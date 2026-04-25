@@ -21,25 +21,21 @@
 <details open>
 <summary><samp><b>View Laboratory Logs</b></samp></summary>
 
+<br>
+
 ## 🛠️ Featured Project
-- 💻 **Engineering Cyberdeck:** A portable field-workstation powered by Raspberry Pi. Integrated with a high-precision oscilloscope, soldering station, and multi-protocol communication bridges for on-site debugging.
+**Engineering Cyberdeck:** A portable field-workstation powered by Raspberry Pi. Integrated with a high-precision oscilloscope, soldering station, and multi-protocol communication bridges for on-site debugging.
 
 ## 🎛️ Technical Stack
 * **Microcontrollers:** PIC16F877A/876A, Intel 8085, ESP32.
 * **Hardware Control:** L293D H-Bridges, 4MHz Crystal timing, LCD Interfacing (Port E: RS/RW/E).
 * **EDA & Design:** Proteus (Simulation), Fusion 360 (CAD), Gerber-to-Gcode workflows.
 * **Digital Fabrication:** Orca Slicer, custom CNC calibration, Ferric Chloride PCB etching.
-* **Software Development:** Fullstack Web & Mobile development (bridging the gap between UI and Hardware).
+* **Software Development:** Fullstack Web & Mobile development (bridging UI and Hardware).
+
+<br>
 
 ```text
 🔭 Research: Analyzing Age of Information (AoI) reduction in Edge Computing vs. Cloud nodes.
 🌱 Learning: Optimizing G-Code parsing and real-time buffer management for 8-bit MCUs.
 👯 Collab:   Building a Distributed PCB Manufacturing Mesh via ESP32/MQTT protocols.
-```
-## 📊 Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charbel-j-estephan&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charbel-j-estephan&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-</div>
