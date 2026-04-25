@@ -8,10 +8,10 @@
       I'm Charbel, an Electronics & Embedded Systems Developer.
     </b>
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&duration=5000&pause=1000&color=3196F7&center=true&width=500&lines=Low+level+coding+at+4MHz;Building+custom+PCB+plotters...;If+it+moves,+it's+probably+a+NEMA17.">
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&duration=5000&pause=1000&color=3196F7&center=true&width=500&lines=Low+level+coding+at+4MHz;Building+custom+PCB+plotters...;8085+%26+PIC+Assembly+enthusiast.;Fullstack+Dev+meets+Hardware.">
     <br>
     <b>
-      ~ Hardware | Firmware | PCB Design ~
+      ~ Hardware | Firmware | Fullstack Web & Mobile ~
     </b>
   </samp>
 <p align="right"><strong><samp>」</samp></strong></p>
@@ -21,18 +21,17 @@
 <details open>
 <summary><samp><b>View Laboratory Logs</b></samp></summary>
 
-## 🛠️ Current Projects
-- 🖋️ **Custom PCB Plotter:** Building a CNC-based etching machine using NEMA 17 motors, M8 lead screws, and PIC16F877A.
-- 🌐 **ESP32-PIC Bridge:** Implementing a high-speed handshake protocol for wireless file transfers to embedded controllers.
-- 💻 **Engineering Cyberdeck:** Designing a portable workstation integrated with a Raspberry Pi and precision measurement tools.
+## 🛠️ Featured Project
+- 💻 **Engineering Cyberdeck:** A portable field-workstation powered by Raspberry Pi. Integrated with a high-precision oscilloscope, soldering station, and multi-protocol communication bridges for on-site debugging.
 
 ## 🎛️ Technical Stack
-- **Microcontrollers:** PIC16F877A / 876A (Expertise in Assembly & C), ESP32.
-- **Hardware:** L293D H-Bridges, LCD interfacing (RS/RW/E on Port E), 4MHz Crystal timing.
-- **Design Tools:** Proteus (Circuit Simulation), Gerber-to-Gcode conversion, Ferric Chloride etching.
-- **3D Printing:** PLA fabrication (Optimized at 210°C/65°C).
+* **Microcontrollers:** PIC16F877A/876A, Intel 8085, ESP32.
+* **Hardware Control:** L293D H-Bridges, 4MHz Crystal timing, LCD Interfacing (Port E: RS/RW/E).
+* **EDA & Design:** Proteus (Simulation), Fusion 360 (CAD), Gerber-to-Gcode workflows.
+* **Digital Fabrication:** Orca Slicer, custom CNC calibration, Ferric Chloride PCB etching.
+* **Software Development:** Fullstack Web & Mobile development (bridging the gap between UI and Hardware).
 
-## 📊 Hardware Stats
+## 📊 Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charbel-j-estephan&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charbel-j-estephan&layout=compact&theme=transparent&hide_border=true" />
@@ -40,12 +39,12 @@
 
 ---
 
-### ↯ Connect via the Serial Terminal
+### ↯ Terminal Session
 > "The code only does what you tell it to do, not what you want it to do."
 
-- 🔭 I am currently analyzing **Amplitude Sensitivity ($k_a$)** in SC modulation systems.
-- 🌱 Improving my skills in **UART/I2C communication** and motor precision calibration.
-- 👯 Looking to collaborate on **Open Source EDA tools**.
+- 🔭 **Research:** Currently analyzing **Amplitude Sensitivity ($k_a$)** in Suppressed Carrier (SC) modulation.
+- 🌱 **Learning:** Refining **UART/I2C/SPI** handshake protocols for ESP32-to-PIC file transfers.
+- 👯 **Collaboration:** Open to contributing to **Open Source EDA** and hardware-software interface tools.
 
 </details>
 </div>
