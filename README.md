@@ -31,20 +31,15 @@
 * **Digital Fabrication:** Orca Slicer, custom CNC calibration, Ferric Chloride PCB etching.
 * **Software Development:** Fullstack Web & Mobile development (bridging the gap between UI and Hardware).
 
+```text
+🔭 Research: Analyzing Age of Information (AoI) reduction in Edge Computing vs. Cloud nodes.
+🌱 Learning: Optimizing G-Code parsing and real-time buffer management for 8-bit MCUs.
+👯 Collab:   Building a Distributed PCB Manufacturing Mesh via ESP32/MQTT protocols.
+```
 ## 📊 Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charbel-j-estephan&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charbel-j-estephan&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
----
-
-### ↯ Terminal Session
-> "The code only does what you tell it to do, not what you want it to do."
-
-- 🔭 **Research:** Currently analyzing **Amplitude Sensitivity ($k_a$)** in Suppressed Carrier (SC) modulation.
-- 🌱 **Learning:** Refining **UART/I2C/SPI** handshake protocols for ESP32-to-PIC file transfers.
-- 👯 **Collaboration:** Open to contributing to **Open Source EDA** and hardware-software interface tools.
-
-</details>
 </div>
