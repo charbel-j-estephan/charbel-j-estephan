@@ -35,8 +35,11 @@
 
 <div align="center">
 <div>🔭 Research: Analyzing Age of Information (AoI) reduction in Edge Computing vs. Cloud nodes.</div>
-<div>🌱 Learning: Optimizing G-Code parsing and real-time buffer management for 8-bit MCUs.</div>
-<div>👯 Collab:   Building a Distributed PCB Manufacturing Mesh via ESP32/MQTT protocols.</div>
+  <br>
+<div>🌱 Learning: Optimizing G-Code parsing and real-time buffer management for 8-bit MCUs.</div>  <br>
+
+<div>👯 Collab:   Building a Distributed PCB Manufacturing Mesh via ESP32/MQTT protocols.</div>  <br>
+
 </div>
 ## 📊 Analytics
 <p align="center">
