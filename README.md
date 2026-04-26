@@ -13,7 +13,7 @@
 
 <br>
 
-<details open>
+<details close>
 <summary><samp><b>View Laboratory Logs</b></samp></summary>
 <br>
 
